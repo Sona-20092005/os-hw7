@@ -7,4 +7,5 @@ It calculates response time, waiting time and turnaround time for each process a
 Compile & Run
 
 gcc scheduler.c -o scheduler
+
 ./scheduler
